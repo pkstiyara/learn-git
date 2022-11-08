@@ -1,2 +1,2 @@
-# learn-git
-This repository is for git learning.
+# Pankaj Kumar Singh
+This repository for my personal website.
